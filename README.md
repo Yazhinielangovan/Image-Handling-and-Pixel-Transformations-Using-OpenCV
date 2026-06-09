@@ -228,6 +228,23 @@ plt.show()
 ```
 
 ## Output:
+<img width="731" height="628" alt="image" src="https://github.com/user-attachments/assets/eec84aab-283a-4e8b-be4c-4c9e0595ed60" />
+
+<img width="707" height="633" alt="image" src="https://github.com/user-attachments/assets/df04dbf9-e56f-49ba-aa03-63762f26ebb7" />
+
+<img width="725" height="605" alt="image" src="https://github.com/user-attachments/assets/6fe1fabf-0781-4bcf-a6b8-f9c524f45143" />
+
+<img width="661" height="563" alt="image" src="https://github.com/user-attachments/assets/96607350-6d46-49c5-96f0-68d9195191a3" />
+
+<img width="671" height="443" alt="image" src="https://github.com/user-attachments/assets/2c3540a8-3fdf-4476-a680-17777acaecd5" />
+
+<img width="813" height="661" alt="image" src="https://github.com/user-attachments/assets/22c2ff79-a07f-4511-8804-cc27c679a563" />
+
+<img width="628" height="540" alt="image" src="https://github.com/user-attachments/assets/432b775d-5f78-48f8-beb4-cc6e99fa7775" />
+
+<img width="660" height="690" alt="image" src="https://github.com/user-attachments/assets/cb7689c8-4b9c-449e-82b8-d0bbe80815cf" />
+
+<img width="666" height="802" alt="image" src="https://github.com/user-attachments/assets/476a0e32-d520-493f-be25-82819c49ccac" />
 
 
 ## Result:
